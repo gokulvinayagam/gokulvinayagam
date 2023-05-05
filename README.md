@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gokulvinayagam
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AEM
+- 💞️ I’m looking to collaborate on AEM related projects
 - 📫 How to reach me gokulvinayagam29@gmail.com
 
 <!---
